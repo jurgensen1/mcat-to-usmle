@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mcat-to-usmle/static/css/main.85e77bf9.css",
+    "main.js": "/mcat-to-usmle/static/js/main.71bdbe06.js",
+    "static/js/787.cffff213.chunk.js": "/mcat-to-usmle/static/js/787.cffff213.chunk.js",
+    "static/media/logo.svg": "/mcat-to-usmle/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/mcat-to-usmle/index.html",
+    "main.85e77bf9.css.map": "/mcat-to-usmle/static/css/main.85e77bf9.css.map",
+    "main.71bdbe06.js.map": "/mcat-to-usmle/static/js/main.71bdbe06.js.map",
+    "787.cffff213.chunk.js.map": "/mcat-to-usmle/static/js/787.cffff213.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e77bf9.css",
+    "static/js/main.71bdbe06.js"
+  ]
+}
